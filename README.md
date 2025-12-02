@@ -6,4 +6,4 @@
 <A href = "https://linuxerjpn.github.io/comparison_Which_is_larger_for_1st_Grade_Math-/comparison_larger.html">ここ</a>
 
 # ダウンロード
-https://github.com/linuxerjpn/comparison_Which_is_larger_for_1st_Grade_Math-
+<a href = "https://github.com/linuxerjpn/comparison_Which_is_larger_for_1st_Grade_Math-">https://github.com/linuxerjpn/comparison_Which_is_larger_for_1st_Grade_Math-</a>
